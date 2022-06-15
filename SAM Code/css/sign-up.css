@@ -1,0 +1,281 @@
+/* screen - sign-up */
+
+.sign-up {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.sign-up .overlap-group5 {
+  height: 415px;
+  margin-left: -54px;
+  margin-top: -75px;
+  position: relative;
+  width: 375px;
+}
+
+.sign-up .ellipse-66 {
+  height: 174px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 189px;
+}
+
+.sign-up .ellipse-69 {
+  height: 209px;
+  left: 252px;
+  position: absolute;
+  top: 0;
+  width: 227px;
+}
+
+.sign-up .mask {
+  height: 440px;
+  left: 25px;
+  position: absolute;
+  top: 75px;
+  width: 375px;
+}
+
+.sign-up .overlap-group5-item {
+  height: 1px;
+  left: 87px;
+  position: absolute;
+  top: 187px;
+  width: 1px;
+}
+
+.sign-up .sign-up-1 {
+  height: 30px;
+  left: 83px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 170px;
+}
+
+.sign-up .action-bar-without-title {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 54px;
+  min-height: 75px;
+  position: absolute;
+  top: 75px;
+  width: 375px;
+}
+
+.sign-up .group-33617 {
+  align-items: center;
+  display: flex;
+  height: 44px;
+  justify-content: flex-end;
+  min-width: 375px;
+  padding: 12px 15.3px;
+}
+
+.sign-up .time {
+  align-self: flex-end;
+  letter-spacing: -0.30px;
+  min-height: 18px;
+  text-align: center;
+  width: 54px;
+}
+
+.sign-up .cellular-connection {
+  height: 11px;
+  margin-left: 218px;
+  margin-top: 2.0px;
+  width: 17px;
+}
+
+.sign-up .wifi {
+  height: 11px;
+  margin-left: 5px;
+  margin-top: 1.66px;
+  width: 15px;
+}
+
+.sign-up .battery {
+  align-items: center;
+  display: flex;
+  margin-left: 5px;
+  margin-top: 2.0px;
+  min-width: 24px;
+}
+
+.sign-up .overlap-group-1 {
+  align-items: flex-start;
+  border-radius: 2.67px;
+  display: flex;
+  height: 11px;
+  min-width: 22px;
+  padding: 1px;
+}
+
+.sign-up .capacity {
+  background-color: var(--ebony);
+  border-radius: 1.33px;
+  height: 7px;
+  width: 18px;
+}
+
+.sign-up .cap {
+  height: 4px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  width: 1px;
+}
+
+.sign-up .back {
+  height: 22px;
+  margin-left: 24px;
+  margin-top: 9px;
+  width: 22px;
+}
+
+.sign-up .overlap-group1 {
+  border-radius: 12px;
+  height: 56px;
+  left: 82px;
+  position: absolute;
+  top: 221px;
+  width: 317px;
+}
+
+.sign-up .group-33330 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 317px;
+  padding: 20.7px 46.9px;
+  position: absolute;
+  top: 0;
+}
+
+.sign-up .value {
+  height: 14px;
+  letter-spacing: 0;
+  line-height: 23px;
+  white-space: nowrap;
+}
+
+.sign-up .iconly-light-profile {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 15px;
+  min-height: 22px;
+  padding: 1.5px 3.7px;
+  position: absolute;
+  top: 17px;
+  width: 22px;
+}
+
+.sign-up .ellipse_736 {
+  border: 1.5px solid #7f7979;
+  border-radius: 5.13px;
+  height: 10px;
+  margin-right: 2.59px;
+  width: 10px;
+}
+
+.sign-up .path_33945 {
+  height: 6px;
+  margin-right: 0.78px;
+  margin-top: 3px;
+  width: 14px;
+}
+
+.sign-up .overlap-group2 {
+  border-radius: 12px;
+  height: 56px;
+  left: 82px;
+  position: absolute;
+  top: 296px;
+  width: 317px;
+}
+
+.sign-up .mail {
+  height: 22px;
+  left: 15px;
+  position: absolute;
+  top: 17px;
+  width: 22px;
+}
+
+.sign-up .overlap-group3 {
+  border-radius: 12px;
+  height: 56px;
+  left: 82px;
+  position: absolute;
+  top: 371px;
+  width: 317px;
+}
+
+.sign-up .password {
+  height: 22px;
+  left: 15px;
+  position: absolute;
+  top: 17px;
+  width: 22px;
+}
+
+.sign-up .overlap-group {
+  height: 15px;
+  left: 280px;
+  position: absolute;
+  top: 21px;
+  width: 18px;
+}
+
+.sign-up .combined-shape {
+  height: 8px;
+  left: 8px;
+  position: absolute;
+  top: 5px;
+  width: 10px;
+}
+
+.sign-up .combined-shape-1 {
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.sign-up .rectangle {
+  background-color: var(--mountain-mist);
+  height: 2px;
+  left: 0;
+  opacity: 0.3;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.sign-up .overlap-group4 {
+  border-radius: 12px;
+  height: 56px;
+  left: 82px;
+  position: absolute;
+  top: 446px;
+  width: 317px;
+}
+
+.sign-up .password-1 {
+  height: 22px;
+  left: 15px;
+  position: absolute;
+  top: 17px;
+  width: 22px;
+}

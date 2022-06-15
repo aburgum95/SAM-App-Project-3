@@ -1,0 +1,169 @@
+.splash-screen {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    height: 812px;
+    overflow: hidden;
+    width: 375px;
+  }
+  .splash-screen .ellipse-70 {
+    height: 1px;
+    margin-left: -174px;
+    margin-top: 562px;
+    width: 1px;
+  }
+  .splash-screen .flex-col {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 173px;
+    margin-top: -72px;
+    min-height: 807px;
+    width: 493px;
+  }
+  .splash-screen .overlap-group2 {
+    height: 209px;
+    position: relative;
+    width: 406px;
+  }
+  .splash-screen .bars-status-bar-i-phone-light {
+    align-items: center;
+    display: flex;
+    height: 44px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 375px;
+    padding: 11px 14.3px;
+    position: absolute;
+    top: 72px;
+  }
+  .splash-screen .time {
+    align-self: flex-end;
+    color: var(--black);
+    font-family: var(--font-family-quicksand);
+    font-size: var(--font-size-l);
+    font-weight: 300;
+    letter-spacing: -0.30px;
+    min-height: 19px;
+    text-align: center;
+    width: 54px;
+  }
+  .splash-screen .cellular-connection {
+    height: 11px;
+    margin-left: 219px;
+    margin-top: 2.0px;
+    width: 17px;
+  }
+  .splash-screen .wifi {
+    height: 11px;
+    margin-left: 5px;
+    margin-top: 1.66px;
+    width: 15px;
+  }
+  .splash-screen .battery {
+    align-items: center;
+    display: flex;
+    margin-left: 5px;
+    margin-top: 2.0px;
+    min-width: 24px;
+  }
+  .splash-screen .overlap-group {
+    align-items: flex-start;
+    border: 1px solid #00000059;
+    border-radius: 2.67px;
+    display: flex;
+    height: 11px;
+    min-width: 22px;
+    padding: 1.0px 1px;
+  }
+  .splash-screen .capacity {
+    background-color: var(--black);
+    border-radius: 1.33px;
+    height: 7px;
+    width: 18px;
+  }
+  .splash-screen .cap {
+    height: 4px;
+    margin-left: 1px;
+    margin-top: 0;
+    width: 1px;
+  }
+  .splash-screen .ellipse-69 {
+    height: 209px;
+    left: 179px;
+    position: absolute;
+    top: 0;
+    width: 227px;
+  }
+  .splash-screen .overlap-group1 {
+    align-items: flex-end;
+    background-image: url(../img/sam-logo-3-2@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: 145px;
+    min-height: 220px;
+    padding: 34.6px 13.5px;
+    width: 319px;
+  }
+  .splash-screen .title {
+    -webkit-text-stroke: 1px var(--shark);
+    color: transparent;
+    font-family: var(--font-family-quicksand);
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 0;
+    min-height: 50px;
+    transform: rotate(-4.82deg);
+    width: 144px;
+  }
+  .splash-screen .spangabyx {
+    color: var(--black);
+  }
+  .splash-screen .a-p-p {
+    -webkit-text-stroke: 1px var(--concrete);
+    color: transparent;
+    font-family: var(--font-family-quicksand);
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 0;
+    margin-right: 19.06px;
+    margin-top: 16px;
+    min-height: 50px;
+    transform: rotate(-3.97deg);
+    width: 144px;
+  }
+  .splash-screen .spanmob8b {
+    color: var(--concrete);
+  }
+  .splash-screen .ellipse-71 {
+    align-self: flex-end;
+    height: 626px;
+    margin-top: 1px;
+    width: 626px;
+  }
+
+.p-text {
+    margin-top: 100px;
+    width: 300px;
+    text-align: center;
+    margin-left: 30px;
+
+}
+
+  .button {
+    background-color: #6FD9BC; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin-top: 20px;
+  margin-left: 80px;
+  border-radius: 10px;
+  }
